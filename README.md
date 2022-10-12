@@ -33,5 +33,6 @@ and coding of course :computer:. I also study information security :lock: and an
 <br />
 <br />
 <br />
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vertical-Card&theme=midnight-purple&show_icons=true)
