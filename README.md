@@ -2,11 +2,16 @@
 
 ### I am a self-taught programmer
 
+<div align="center">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 I like 
 - :metal: Rock'n'Roll
 - :coffee: coffee
 
-and coding of course :computer:
+and coding of course :computer:. I also study information security :lock: and analyze malware.
 
 ### Studying
 
